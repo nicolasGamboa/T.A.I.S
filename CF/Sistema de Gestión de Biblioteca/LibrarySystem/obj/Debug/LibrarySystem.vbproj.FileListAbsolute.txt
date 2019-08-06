@@ -1,0 +1,146 @@
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form1.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBooks.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrower.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCategory.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmUser.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm1.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrow.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListBooks.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListBorrower.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmPayments.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReport.resources
+C:\Users\JANOBE\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturn.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\System.Web.Services.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\FlashControlV71.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\stdole.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbprojResolveAssemblyReference.cache
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form1.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBooks.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrow.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrower.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCategory.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListBooks.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListBorrower.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmPayments.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReport.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturn.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmUser.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.LoginForm1.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+C:\Users\janobe\Documents\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\System.Web.Services.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\FlashControlV71.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\stdole.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.Form1.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmBooks.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmBorrow.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmBorrower.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmCategory.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmListBooks.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmListBorrower.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmPayments.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmReport.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmReturn.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmUser.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.LoginForm1.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmUserlogs.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+C:\Users\janobe\Desktop\New folder\LibrarySystem\obj\Debug\LibrarySystem.frmLibraryCard.resources
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\LibrarySystem.xml
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\FlashControlV71.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\stdole.dll
+D:\Escritorio\Libreria\LibrarySystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.vbprojAssemblyReference.cache
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.Form1.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmBooks.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmBorrow.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmBorrower.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmCategory.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmLibraryCard.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmListBooks.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmListBorrower.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmPayments.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmReport.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmReturn.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmUser.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.frmUserlogs.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.LoginForm1.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.cache
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.vbproj.CoreCompileInputs.cache
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.vbproj.CopyComplete
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.xml
+D:\Escritorio\Libreria\LibrarySystem\obj\Debug\LibrarySystem.pdb
